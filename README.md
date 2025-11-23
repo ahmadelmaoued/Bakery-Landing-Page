@@ -7,8 +7,8 @@ The Simple Bake Shop is a warm, cozy bakery-themed website designed to showcase 
 I created this website as a personal learning project; a way to improve my web development skills, experiment with design, and learn how to debug real problems through trial and error. Every page represents something I’ve learned while building, fixing, and refining the site.
 
 ## Tech Used
-HTML
-CSS
+-HTML
+-CSS
 
 ## How to View it
 Open index.html
